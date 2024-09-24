@@ -38,4 +38,3 @@ def step_function(net_input) -> int:
 > The following chart is made using both the `Sum` and `Step` functions
 
 ![Step Function Plot](step_function_plot.png)
-
