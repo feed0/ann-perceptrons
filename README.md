@@ -4,7 +4,7 @@ This project implements artificial neural networks (ANN) using perceptrons as pe
 
 0. [Sum Function](#0-sum-function)
 1. [Single Layer](#1-single-layer-perceptron)
-2. Single Layer and Training
+2. [Single Layer and Training](#2-single-layer-and-training)
 3. Multi Layer
 
 ## 0. Sum Function
